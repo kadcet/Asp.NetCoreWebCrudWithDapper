@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KadirWebApi2.props" />
+</Project>
